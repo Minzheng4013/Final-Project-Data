@@ -1,4 +1,4 @@
-Entity,Code,Year,Deaths - Cause: All causes - Risk: Household air pollution from solid fuels - Sex: Both - Age: Age-standardized (Rate),Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate),Deaths - Cause: All causes - Risk: Air pollution - Sex: Both - Age: Age-standardized (Rate),Deaths - Cause: All causes - Risk: Ambient ozone pollution - Sex: Both - Age: Age-standardized (Rate)
+Entity,Code,Year,indoor air pollution,Outdoor particulate matter,Air pollution(total),outdoor ozone pollution
 United States,USA,1990,0.113357408,29.56043472,32.07216306,2.636470931
 United States,USA,1991,0.107610991,28.83216916,31.27291643,2.562869192
 United States,USA,1992,0.101671002,28.03492303,30.4715543,2.563443721
